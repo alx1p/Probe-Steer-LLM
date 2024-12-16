@@ -1,6 +1,7 @@
 # **Using Semantic Entropy Probes to Efficiently Steer Away from LLM Hallucinations**  
 **CS230 Course Project by Walid Rahman, Alex Popa, and Dilan Nana**  
 
+**[Final Paper](https://drive.google.com/file/d/1xE-Apx_Wfh7WeEY3fTQ2CnJp4-QT9ZAK/view?usp=drive_link). **
 ---
 
 ## **Overview**  
@@ -9,7 +10,7 @@ This project explores semantic entropy probes (SEPs) applied to the Llama2-7b la
 - Use of **Semantic Entropy Probes (SEPs)**, precomputed for specific token positions.  
 - Dataset prompts and evaluations using **SQuAD v2**.
 - Steering of models using steering vectors
-- Comprehensive analysis using the **our custom scorerr** to study model behavior.
+- Comprehensive analysis using the **our custom scorer** to study model behavior.
 - **KL MODEL TO GUIDE MODEL STEERING BASED ON SEPs**
 
 ---
