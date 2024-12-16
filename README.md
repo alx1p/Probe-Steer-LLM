@@ -66,7 +66,9 @@ This project leverages the work of Kossen et al. on **Semantic Entropy Probes**:
 For questions or contributions, please reach out to the project team:  
 - Walid Rahman  
 - Alex Popa  
-- Dilan Nana  
+- Dilan Nana
+
+[Final Paper](https://drive.google.com/file/d/1xE-Apx_Wfh7WeEY3fTQ2CnJp4-QT9ZAK/view?usp=drive_link)
 
 --- 
 
