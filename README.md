@@ -1,5 +1,6 @@
 # **Using Semantic Entropy Probes to Efficiently Steer Away from LLM Hallucinations**  
 **CS230 Course Project by Walid Rahman, Alex Popa, and Dilan Nana**
+
 ---
 
 ## **Overview**  
